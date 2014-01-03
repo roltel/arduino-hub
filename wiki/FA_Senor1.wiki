@@ -1,0 +1,14 @@
+#summary Arduino Weather Station (Datalog to SD + To Sever Mysql/PHP)
+
+= Introduction =
+
+Arduino Weather Station (Datalog to SD + To Sever Mysql/PHP) 
+
+
+= Details =
+
+Components:
+  * Arduino Ethernet
+  * Sensor DHT11
+  * Sensor BMP085
+  * LDR
