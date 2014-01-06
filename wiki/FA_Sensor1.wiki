@@ -2,13 +2,20 @@
 
 = Introduction =
 
-Arduino Weather Station (Datalog to SD + To Sever Mysql/PHP) 
+Arduino Weather Station (Datalog to SD + To Sever Mysql/PHP). This is a Arduino project that records the values of a sensor DHT11, a BMP085 and LDR.
+
+The Arduino code calculates the Dew point, and records all data on a SD card first. For recording on the SD we used a RTC so we could have a timestamp on the datalog.txt. After recording the data on SD Card, the code will save the data on a mysql/php server.
+
+We used 2 files (conec.php and add.php) php to save the data coming from the Arduino to the Mysql Database.
 
 
 = Details =
 
 Components:
-  * Arduino Ethernet
-  * Sensor DHT11
-  * Sensor BMP085
-  * LDR
+  * Arduino Ethernet;
+  * Sensor DHT11;
+  * Sensor BMP085;
+  * LDR;
+  * Real Time Code;
+
+
