@@ -18,4 +18,13 @@ Components:
   * LDR;
   * Real Time Code;
 
+==The PHP/Mysql Code==
+First create a database on your mysql server with the tables you need.
 
+Then create two files on your webserver:
+
+File: conec.php
+
+File: add.php
+
+==The Arduino Code==
