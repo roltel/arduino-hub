@@ -1,8 +1,10 @@
 #summary SA56-11HWA
 
-= Introduction =
+Device Type: 7 SEG NUMERIC DISPLAY
 
-Add your content here.
+COMMON ANODE, 1 DIGIT WITH DECIMAL POINT
+
+
 
 
 = Details =
