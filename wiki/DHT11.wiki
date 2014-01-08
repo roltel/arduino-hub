@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary DHT11 Humidity Sensor
 
 = Introduction =
 
@@ -12,11 +12,10 @@ Andy Dalton has made a modified version. Difference is that the DATAPIN is defin
 
 = Connection =
 
-
-
-
 The DHT11 has three lines: GND, +5V and a single data line. By means of a handshake, the values are clocked out over the single digital line.
 
 Datasheet: http://www.micro4you.com/files/sensor/DHT11.pdf
 
 3 pins break out shield version - http://www.geeetech.com/wiki/index.php/Electric_thermometer_by_using_DHT11_sensor_module
+
+==Sources==
