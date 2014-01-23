@@ -4,6 +4,8 @@
 
 Gboard is a unique Arduino board which features a SIM900 GSM/GPRS module, an XBee socket, nRF24L01+ wireless interface and an ATMega328P controller. This board will add wireless XBee / nRF24L01+ control as well as GSM/GPRS connectivity to your projects. It’s great for anything from home automation to robot control.
 
+http://imall.iteadstudio.com/im120411004.html
+
 = Details =
 
 Datasheet
