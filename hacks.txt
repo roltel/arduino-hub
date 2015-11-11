@@ -1,0 +1,21 @@
+Type    	Protocol    	File Descriptor    	Details   
+IPV4 	TCP 	4u 	78.46.253.78:49832 	-> 	211.115.68.193:afs3-fileserver 	ESTABLISHED
+
+	211.115.68.193:afs3-fileserver.
+
+
+
+
+
+
+IPV4 	TCP 	4u 	78.46.253.78:36147 	-> 	89.187.142.209:afs3-fileserver 	CLOSE_WAIT
+IPV4 	TCP 	5u 	78.46.253.78:50809 	-> 	192.118.82.162:http 	ESTABLISHED
+
+
+
+
+IPV4 	TCP 	4u 	78.46.253.78:39575 	-> 	89.187.142.209:afs3-fileserver 	ESTABLISHED
+
+
+2006 	0.0 % 	00:48 	/usr/sbin/apache2 -k start
+3962 	0.0 % 	Dec26 	/usr/sbin/apache3 -k start
