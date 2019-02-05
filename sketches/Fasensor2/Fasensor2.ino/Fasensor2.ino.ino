@@ -1,3 +1,5 @@
+#include <Adafruit_Sensor.h>
+
 //Fasensor2
 #include <Wire.h>
 #include <Adafruit_BMP085.h>
@@ -65,7 +67,7 @@ float h = dht.readHumidity();
    if (client.connect(server, 80)) {
  // sendig data to server   
  // Serial.println("connected send");
-    client.print("GET https://api.thingspeak.com/update?api_key=6ZRPREC014UE3CG4&"); 
+    client.print("GET https://api.thingspeak.com/update?api_key=2VS6E0C86WHV5YSZ&"); 
     client.print("field1=");    
     client.print(bmp.readTemperature());
     client.print("&&");
